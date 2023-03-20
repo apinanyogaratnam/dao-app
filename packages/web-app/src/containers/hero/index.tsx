@@ -7,7 +7,6 @@ import {useTranslation} from 'react-i18next';
 import {GridLayout} from 'components/layout';
 
 function Hero() {
-  const {t} = useTranslation();
   return (
     <Container>
       <GridLayout>
