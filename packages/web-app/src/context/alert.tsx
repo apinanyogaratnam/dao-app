@@ -5,7 +5,7 @@ import React, {
   useMemo,
   ReactNode,
 } from 'react';
-import {AlertChip} from '../../ui-components';
+import {AlertChip} from '../../ui-components/dist/components/alerts';
 
 const AlertContext = createContext<AlertContextType | null>(null);
 
