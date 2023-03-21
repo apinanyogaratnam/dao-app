@@ -4,7 +4,7 @@ import {
   IconChevronDown,
   Option,
   Spinner,
-} from '@aragon/ui-components';
+} from '../../../ui-components';
 import React, {useEffect, useRef, useState} from 'react';
 import {useTranslation} from 'react-i18next';
 import {generatePath, useNavigate} from 'react-router-dom';

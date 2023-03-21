@@ -11,7 +11,7 @@ import {
   VotingMode,
 } from '@aragon/sdk-client';
 import {resolveIpfsCid} from '@aragon/sdk-common';
-import {Address} from '@aragon/ui-components/dist/utils/addresses';
+import {Address} from '../../ui-components/dist/utils/addresses';
 import {NavigationDao} from 'context/apolloClient';
 import {BigNumber, BigNumberish, constants, ethers, providers} from 'ethers';
 import {TFunction} from 'react-i18next';

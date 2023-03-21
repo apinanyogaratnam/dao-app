@@ -1,4 +1,4 @@
-import {Address} from '@aragon/ui-components/dist/utils/addresses';
+import {Address} from '../../ui-components/dist/utils/addresses';
 import React, {
   createContext,
   useCallback,

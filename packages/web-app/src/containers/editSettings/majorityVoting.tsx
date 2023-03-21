@@ -4,7 +4,7 @@ import {
   ButtonText,
   IconGovernance,
   ListItemAction,
-} from '@aragon/ui-components';
+} from '../../../ui-components';
 import React, {useCallback, useEffect, useMemo} from 'react';
 import {
   useFieldArray,
