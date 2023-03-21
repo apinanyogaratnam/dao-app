@@ -3,7 +3,7 @@ import {
   IconChevronRight,
   IconClose,
   IconHome,
-} from '@aragon/ui-components';
+} from '../../../../ui-components';
 import React from 'react';
 import {useTranslation} from 'react-i18next';
 import styled from 'styled-components';

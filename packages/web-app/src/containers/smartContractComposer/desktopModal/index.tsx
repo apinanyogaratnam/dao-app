@@ -1,4 +1,4 @@
-import {ButtonText, Modal} from '@aragon/ui-components';
+import {ButtonText, Modal} from '../../../../ui-components';
 import React from 'react';
 import {useTranslation} from 'react-i18next';
 import styled from 'styled-components';

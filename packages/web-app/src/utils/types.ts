@@ -9,7 +9,7 @@ import {
   VoteValues,
   VotingSettings,
 } from '@aragon/sdk-client';
-import {Address} from '@aragon/ui-components/src/utils/addresses';
+import {Address} from '../../ui-components/src/utils/addresses';
 
 import {TimeFilter, TransferTypes} from './constants';
 

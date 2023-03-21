@@ -1,4 +1,4 @@
-import {IconChevronRight, ListItemAction} from '@aragon/ui-components';
+import {IconChevronRight, ListItemAction} from '../../../../ui-components';
 import React from 'react';
 import {useTranslation} from 'react-i18next';
 import styled from 'styled-components';

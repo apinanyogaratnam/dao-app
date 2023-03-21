@@ -12,9 +12,9 @@ import {
   SearchInput,
   VotersTable,
   VoterType,
-} from '@aragon/ui-components';
+} from '../../../ui-components';
 
-import {shortenAddress} from '@aragon/ui-components/src/utils/addresses';
+import {shortenAddress} from '../../../ui-components/src/utils/addresses';
 import React, {useMemo, useState} from 'react';
 import {useTranslation} from 'react-i18next';
 import styled from 'styled-components';

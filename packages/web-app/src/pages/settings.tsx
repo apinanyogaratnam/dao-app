@@ -9,7 +9,7 @@ import {
   ButtonText,
   IconGovernance,
   ListItemLink,
-} from '@aragon/ui-components';
+} from '../../ui-components';
 import {DaoDetails} from '@aragon/sdk-client';
 
 import MajorityVotingSettings from 'containers/settings/majorityVoting';

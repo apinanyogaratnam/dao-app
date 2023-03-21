@@ -1,4 +1,4 @@
-import {ButtonText} from '@aragon/ui-components';
+import {ButtonText} from '../../ui-components';
 import {useNetwork} from 'context/network';
 import React, {useEffect, useState} from 'react';
 import {FormProvider, useForm} from 'react-hook-form';

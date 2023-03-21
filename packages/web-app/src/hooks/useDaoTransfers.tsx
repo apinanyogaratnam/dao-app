@@ -5,7 +5,7 @@ import {
   TransferSortBy,
   TransferType,
 } from '@aragon/sdk-client';
-import {Address} from '@aragon/ui-components/dist/utils/addresses';
+import {Address} from '../../ui-components/dist/utils/addresses';
 import {useEffect, useState} from 'react';
 
 import {pendingDeposits} from 'context/apolloClient';

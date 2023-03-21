@@ -3,7 +3,7 @@ import {
   ButtonText,
   IconClose,
   IconHome,
-} from '@aragon/ui-components';
+} from '../../../../ui-components';
 import React from 'react';
 import {useWatch} from 'react-hook-form';
 import {useTranslation} from 'react-i18next';
